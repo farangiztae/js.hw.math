@@ -21,7 +21,7 @@
 // let x = 2
 // let n = 3
 // function pow() {
-//     return x  n
+//     return(x n)
 // }
 // pow()
 // console.log(pow(x, n))
@@ -42,7 +42,7 @@
 // let x = 8
 // let n = 3
 // function sqrt() {
-//     return x ** (1/b);
+//     return (x ** (1/b));
 // }
 // sqrt()
 // console.log(sqrt(x, n));
