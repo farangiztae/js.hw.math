@@ -38,3 +38,11 @@
 // }
 // sqrt()
 // console.log(sqrt(a, b));
+
+// let x = 8
+// let n = 3
+// function sqrt() {
+//     return x ** (1/b);
+// }
+// sqrt()
+// console.log(sqrt(x, n));
